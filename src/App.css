@@ -1,0 +1,27 @@
+/* Add this CSS to your stylesheet or within a <style> tag in your HTML */
+
+body, html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif; /* Optional: set a default font */
+}
+
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  margin: 10px 0;
+}
+.heading{
+  margin-bottom: 80%;
+  position:static;
+  bottom: 80%;
+}
